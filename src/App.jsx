@@ -1,14 +1,17 @@
 // import  from "./1. Counter";
 
-import Todo from "./Todo";
+// import Todo from "./2. Todo";
 
-function App() {
+import Meal from "./Meal";
+
+const App = () => {
   return (
-    <div>
+    <>
       {/* <Counter /> */}
-      <Todo />
-    </div>
+      {/* <Todo /> */}
+      <Meal />
+    </>
   );
-}
+};
 
 export default App;
