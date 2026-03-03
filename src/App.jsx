@@ -1,9 +1,12 @@
-import Counter from "./1. Counter";
+// import  from "./1. Counter";
+
+import Todo from "./Todo";
 
 function App() {
   return (
     <div>
-      <Counter />
+      {/* <Counter /> */}
+      <Todo />
     </div>
   );
 }
