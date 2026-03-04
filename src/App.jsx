@@ -4,7 +4,9 @@
 
 // import Meal from "./3. Meal";
 
-import Calculator from "./Calculator";
+// import Calculator from "./Calculator";
+
+import ToggleButtonColor from "./ToggleButtonColor";
 
 const App = () => {
   return (
@@ -12,7 +14,8 @@ const App = () => {
       {/* <Counter /> */}
       {/* <Todo /> */}
       {/* <Meal /> */}
-      <Calculator />
+      {/* <Calculator /> */}
+      <ToggleButtonColor />
     </>
   );
 };
