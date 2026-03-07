@@ -8,7 +8,9 @@
 
 // import ToggleButtonColor from "./5. ToggleButtonColor";
 
-import HiddenSearchBar from "./HiddenSearchBar";
+// import HiddenSearchBar from "./6. HiddenSearchBar";
+
+import Testimonials from "./Testimonials";
 
 const App = () => {
   return (
@@ -18,7 +20,8 @@ const App = () => {
       {/* <Meal /> */}
       {/* <Calculator /> */}
       {/* <ToggleButtonColor /> */}
-      <HiddenSearchBar />
+      {/* <HiddenSearchBar /> */}
+      <Testimonials />
     </>
   );
 };
